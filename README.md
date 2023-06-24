@@ -45,7 +45,7 @@
 
 ## :dart: About ##
 
-Este proyecto lo que se hace es simular el movimiento de los dos ojos siguiendo el movimiento del mouse de un lado a otro en el lienzo del navegador. Esto se logra gracias a la ayuda de los eventos en JavaScript y la información que generan sobre las coordenadas dentro de la página web. 
+Este proyecto simula el movimiento de los dos ojos siguiendo el movimiento del mouse de un lado a otro en el lienzo del navegador. Esto se logra gracias a la ayuda de los eventos en JavaScript y la información que generan sobre las coordenadas dentro de la página web. 
 
 
 ## :rocket: Technologies ##
